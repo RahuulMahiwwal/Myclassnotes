@@ -1,1 +1,1 @@
-Line from main branch
+This is a confilicting line from master branch
